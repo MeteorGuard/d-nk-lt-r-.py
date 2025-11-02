@@ -1,1 +1,1 @@
-# d-nk-lt-r-.py
+# dinkültürü.py
