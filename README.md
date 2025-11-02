@@ -1,2 +1,1 @@
-bosluk_doldurma.py → ../app.py
-
+app.py
